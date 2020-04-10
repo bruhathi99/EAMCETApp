@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReportingCenters"
+    android:padding="10dp"
+    android:background="@drawable/pb"
+    >
+    <ScrollView android:layout_marginTop="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sanketika Vidya Bhavan,Masab Tank,Hyderabad"
+        android:onClick="maps1"
+        android:id="@+id/center1"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="J.N.Govt. polytechnic ,Ramantapur,Hyderabad"
+        android:onClick="maps2"
+        android:id="@+id/center2"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q.Q.Govt.Polytechnic, Chandulal Baradari,Old City,Hyerabad"
+        android:onClick="maps3"
+        android:id="@+id/center3"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt. Inst. Printing Tech ,East Maredpally,Secunderabad"
+        android:onClick="maps4"
+        android:id="@+id/center4"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr.B.R.Ambedkar GMR Polytechnic for women"
+        android:onClick="maps5"
+        android:id="@+id/center5"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt.Polytechnic, Nijamabad"
+        android:onClick="maps6"
+        android:id="@+id/center6"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SR and BGNR Govt. Degree College"
+        android:onClick="maps7"
+        android:id="@+id/center7"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt.Polytechnic,Bellampally ,Adilabad District"
+        android:onClick="maps8"
+        android:id="@+id/center8"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="University Arts and Science College ,Subedari,warangal District"
+        android:onClick="maps9"
+        android:id="@+id/center9"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt. Polytechnic,warangal District"
+        android:onClick="maps10"
+        android:id="@+id/center10"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt. Polytechnic, Kothegudam"
+        android:onClick="maps11"
+        android:id="@+id/center11"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt. Polytechnic,Mahaboobnagar"
+        android:onClick="maps12"
+        android:id="@+id/center12"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govt. Polytechnic,Nalgonda district"
+        android:onClick="maps13"
+        android:id="@+id/center13"
+        />
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
+

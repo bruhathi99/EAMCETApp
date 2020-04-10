@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">College Explore</string>
+    <string name="Cast_Categories">EAMCETApp</string>
+    <string-array name="Cast_Categories_array">
+        <item>OC</item>
+        <item>BC</item>
+        <item>ST</item>
+    </string-array>
+    <string name="Chaitanya_Bharathi_Institute_Of_Technology">Chaitanya Bharathi Institute Of Technology\nCode:CBIT\n
+        Place:Gandipet\n
+        Region:OU\n
+        College_Type:Affiliated\n
+        Affiliated_To:OU\n
+        Accredation:NBA\n
+        COED:CoEducation\n
+        Tution_Fee:2,00,000
+        
+    </string>
+    <string name="JawaharlalNehru_Technological_University">Jawaharlal Institue of Technology and sciences\nCode:JNTUH\n
+Place:Kukatpally\n
+Region:JNTUH\n
+College_Type:Government\n
+Affiliated_To:Autonomous\n
+    Accredation:AICTE,UGC\n
+    COED:CoEducation\n
+    Tution_Fee:10000</string>
+    <string name="G_Narayanamma_Institute_Of_Technology_and_Sciences">G.Narayanamma Institute Of Technology and Sciences\nCode:GNTW\n
+    Place:Shaikpet\n
+    Region:JNTUH\n
+    College_Type:Government\n
+    Affiliated_To:JNTUH\n
+    Accredation:AICTE,NAAC\n
+    COED:For_Women\n
+    Tution_Fee:95,000</string>
+    <string name="checklist_h">All originals certificate and 2 sets of xerox copies like:\n
+ 1.TS EAcardMCET Rank\n
+ 2.TS EAMCET Hall ticket\n
+ 3.Intermediate memo of marks cum pass certificate\n
+ 4.S.S.C or its equivalent marks memo\n
+ 5.IV to Inter study certificates\n
+ 6.Residence Certificate(in case where the candidate has no institutionalized education\n
+ 7.Residence Certificate of either of the parents in T.S. for 10 years in case   of non-local candidate\n
+ 8.income certficate if applicable\n
+ 9.Aadhar Card\n
+10.Cast Certificate if applicable/n</string>
+</resources>

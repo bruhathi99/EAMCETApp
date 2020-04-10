@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eamcetapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logologo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ClgButton"></activity>
+        <activity android:name=".clg3" />
+        <activity android:name=".clg2" />
+        <activity android:name=".clg1" />
+        <activity android:name=".Placements" />
+        <activity android:name=".ReportingCenters" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".Certificates_list" />
+        <activity android:name=".Cutoff" />
+        <activity android:name=".Categories" />
+        <activity android:name=".LoginForm" />
+        <activity android:name=".Signup_Form" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
